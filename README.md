@@ -11,7 +11,7 @@ In this project, i will make use of Python to explore data related to bike share
  - User Type (Subscriber or Customer) The Chicago and New York City files 
  - also have the following two columns:  Gender Birth Year  Data for the first 10 rides in the new_york_city.csv file
     # In this project,
-       i'll write code to provide the following information: 
+      i'll write code to provide the following information: 
        - #1 Popular times of travel (i.e., occurs most often in the start time) 
        -  most common month most common day of week 
        -  most common hour of day
